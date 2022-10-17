@@ -1,0 +1,33 @@
+# this is comment
+# stop alle tekst in Tree.txt en run Jupyter  Generate_Index_html_02
+
++Installatie XXX Energie
+  Eigen EnergieBedrijf5         | EB5
+  Eigen EnergieBedrijf5         | EB6
+  Eigen EnergieBedrijf5         | EB7
+
++Installatie Energie
+  Installatie_Energie/Eigen EnergieBedrijf2
+  Installatie_Energie/Eigen EnergieBedrijf2
+  Installatie_Energie/Eigen EnergieBedrijf2
+
+++Tweede Level
+  Installatie_Energie/Eigen EnergieBedrijf2
+  Installatie_Energie/Eigen EnergieBedrijf2
+  Installatie_Energie/Eigen EnergieBedrijf2
+ +Tweede Level
+  Installatie_Energie/Eigen EnergieBedrijf2
+  Installatie_Energie/Eigen EnergieBedrijf2
+  Installatie_Energie/Eigen EnergieBedrijf2
+-
+Installatie_Energie/Energiewet_nov21_toelichting
+Installatie_Energie/Energiewet_nov21_toelichting
+
++Niet Tweede Level
+  Eigen EnergieBedrijf5         | EB5
+  Eigen EnergieBedrijf5         | EB5
+
+
++Eerste Level
+Installatie_Energie/Eigen EnergieBedrijf
+Installatie_Energie/Eigen EnergieBedrijf2
