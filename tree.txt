@@ -1,7 +1,7 @@
 + Luchtverwarming
 ++ Inleiding
      Gasverbruik
-     Luchtzijdig Inregelen
+     Luchtzijdig Inregelen.html
      Binnenmilieu
      CO2 meten
      Brink Alure
@@ -12,11 +12,11 @@
 ++ Warmtepomp
      Leveranciers
      Oplossingen
-     Oplossing 1.pdf  | Oplossing 1
-     Oplossing 2
-     Oplossing 3
-     Oplossing 4
-     Oplossing 5
+     Oplossing_1.html  | Oplossing 1
+     Oplossing_2.html
+     Oplossing_3.html
+     Oplossing_4.html
+     Oplossing_5.html
 
 + Vloerisolatie
 # Vloerisolatie is tamelijk onbekend
