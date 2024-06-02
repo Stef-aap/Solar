@@ -1,42 +1,114 @@
-+ Luchtverwarming
-++ Inleiding
-     Gasverbruik
-     Luchtzijdig Inregelen.html
-     Binnenmilieu
-     CO2 meten
-     Brink Alure
-     Brink Elan
+# this is comment
+# stop alle tekst in Tree.txt en run Jupyter  Generate_Index_html_02
+# Deze bovenste regels worden niet meegenomen in de notes
 
--
-+ Verduurzaming
-++ Warmtepomp
-     Leveranciers
-     Oplossingen
-     Oplossing_1.html  | Oplossing 1
-     Oplossing_2.html
-     Oplossing_3.html
-     Oplossing_4.html
-     Oplossing_5.html
++Algemeen
+  # In deze paragraaf beschrijven we een aantal zaken over het project, het projektteam en
+  # een aantal basisbegrippen rondom luchtverwarming en binnenmilieu.
+
+  Project
+  # Globale omschrijving wat we hebben gedaan en hoe we te werk zijn gegaan.
+  
+  Luchtverwarming     |LuchtVerwarming
+  
+  Warmtepomp
+  # De meest duurzame oplossing is natuurlijk het toepassen van een volledige warmtepomp, waarbij  ook het gas kunt laten afsluiten en dus ook geen vastrecht voor het gas meer hoeft te betalen.
+  # Het principe van de volledige en hybride warmtepomp
+   
+  Ventilatie
+  # Waarom u moet ventileren, waarom u MINIMAAL moet ventileren en hoe u dat kunt meten
+  
+  Temperatuur
+  # Hoe ervaren wij temperatuur. Het antwoord laat zien waarom luchtverwarming zo snel en efficiënt is.
+  
+  Luchtzijdig Inregelen
+  # Net als dat een CV-installatie "waterzijdig" moet worden ingeregeld,
+  # moet een luchtverwarmings installatie "Luchtzijdig" worden ingeregeld.
+  # Een goede inregeling levert een beter comfort en kan wel tot 30% energie besparen.
+  
+  Isoleren
+  # Is mijn huis voldoende geïsoleerd voor een warmtepomp oplossing ?
+  
+  Warmtelek Woning
+  # waar zitten de warmtelekken in mijn woning en welke moet ik als eerste aanpakken
+
++ Vervanging
+# Hier staan alle mogelijke oplossingen die wij konden bedenken.
+
+   Leveranciers
+   # de twee door ons geselcteerde leveranciers
+   
+   Oplossingen
+   # een overzicht van alle oplossingen 
+   
+   Oplossing 1 (Full Electric)  | Oplossing 1
+   # Dit is een volledige warmtepomp luchtverwarming aangeboden door Schimmel
+   
+   Oplossing 2 (Full Electric)  | Oplossing 2
+   # Dit is een volledige warmtepomp luchtverwarming aangeboden door JP Services
+
+   Oplossing 3 (Hybride)        | Oplossing 3
+   # Een hybride oplossing voor enkel verwarming
+   
+   Oplossing 4 (Hybride)        | Oplossing 4
+   # Een hybride oplossing die ook het warm tapwater verzorgt.
+   
+   Oplossing 5 (Full Electric)  | Oplossing 5
+   # De airco als goedkoop alternatief of tijdelijke oplossing.
 
 + Vloerisolatie
 # Vloerisolatie is tamelijk onbekend
+# Het is niet zo eenvoudig omdat in de kruipruimte de meestal slecht geïsoleerde lucht kanalen lopen. Soms zelf wordt de kruipruimte gebruikt als retour kanaal. In beide gevallen is het dus fout om de vloer te isolaeren zoals in een normaal huis gebeurt, immers de luchtstromen fungeren als vloerverwarming die je dan de das omdoet, terwijl je niet de kanelen isoleert.
 
--
+  Vloerisolatie
+
 + Thema-Avond
-++ Presentaties
-     Presentatie_LuchtVerwarming_EnergieCafe.pdf  | EnergieCafé
-     Schimmel Techniek Presentatie Mook.pdf             | Patrick Schimmel
-     MultiCalor_Energiecafe_samenvatting.pdf            | John Pennings
-     MultiCalor_Energiecafe_samenvatting.pdf            | MultiCalor
+# Presentatie van de thema-avond en aanvullende documenten
+  ++ Presentaties
+    Presentatie_LuchtVerwarming_EnergieCafe.pdf  | EnergieCafe
+    # Presentatie EnergieCafe Mook en Middelaar: Barny Versteegen en Stef Mientki
+    
+    Schimmel Techniek Presentatie Mook.pdf       | Patrick Schimmel
+    # Presentatie over Schimmel Techniek door oprichter en eigenaar Patrick Schimmel
+    
+    MultiCalor_Presentatie_Mook.pdf              | John Pennings
+    # Presentatie over MultiCalor oplossingen door John Pennings
+    
+  + Overig
+    MultiCalor_Energiecafe_samenvatting.pdf      | MultiCalor
+    # aanvullende informatie van MultiCalor, de luchtverwarmings fabrikant die Pennings gebruikt.
 
 -
 + Andere Oplossingen
+# Het laatste jaar zijn er in een aantal installateurs vakbladen diverse oplossingen voor een duurzame vervanging van luchtverwarming getoond. Maar het zijn telkens individuele installaties, ter plekke in elkaar gezet.
+# Hopelijk kunnen we hier in de nabije toekomst een aantal installaties van de twee genoemde installateurs laten zien.
    https://energiedeblaak.nl/2023/11/28/luchtverwarming-van-brink-hoog-gasverbruik-en-een-speciaal-energiecafe/  | De Blaak Tilburg
+   # bewoner die zlef iets heeft laten samenbouwen
+   
    5 kW-warmtepomp vervangt gasgestookte luchtverwarming van 18 kW.pdf        | 5 kW Daikin
-   Integratie lucht_lucht-warmtepomp in luchtverwarming met Brink-ketel_b.pdf  | 7kW Daikin
-   Tip gevraagd voor warmtepomp-oplossing hete-luchtverwarming.pdf                   | Tip Mitsubishi
+   # nog een keer dus
+   
+   Integratie lucht_lucht-warmtepomp in luchtverwarming met Brink-ketel_b.pdf | 7kW Daikin
+   # dreams
+   
+   Tip gevraagd voor warmtepomp-oplossing hete-luchtverwarming.pdf            | Tip Mitsubishi
 
--
-+ Achtergrond
-++ Jan de Jong
-     Bossche School
+
++Naslag
+# komt er nu wel iets?
+
+  Alure (direct gestookt)  | Brink Alure
+  # Wat is een direct-gestookte luchtverwarming
+  
+  Elan (indirect gestookt) | Brink Elan
+  # Wat is een INdirect-gestookte luchtverwarming
+
+  Jan de Jong
+  # Rrchitect die in Mook en Middelaar vele huizen met luchtverwarming heeft ontworpen.
+  
+  Bossche School
+  # De bouwstijl die Jan de Jong aanhing.
+  
+  Huizen Molenhoek  | Molenhoek
+  # Typische kenmerken van de Bossche School woningen in Molenhoek
+
